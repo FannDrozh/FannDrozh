@@ -1,14 +1,22 @@
 # Привет всем заглянувшим, меня зовут Илья
 ### :man_technologist: Обо мне:
+<p>
 Я начинающий разработчик Desktop приложений учусь в ГБПОУ НГК, хоть и на данном этапе я и не могу себя назвать программистом, но желаю обучаться и становиться лучше! Мой любимыый язык программирования это С#, но в коллежде я немного изучал С и Java ( мобильный приложения ). 
+<p/>
 
-<div align="center">
+----
+### 🤝 Социальные сети:
 
-![](https://raw.githubusercontent.com/FannDrozh/FannDrozh/master/Profile/solarized/0-profile-details.svg)
+  <div id="badges">
+    <a href="https://t.me/ilya_rozh9921" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    <a href="https://vk.com/ilya_rozh9921" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+  </div>
 
-</div>
-<div>
-  
+----
+
   ### :hammer_and_wrench: Языки программирования :
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
