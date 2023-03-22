@@ -2,7 +2,7 @@
 ### :man_technologist: Обо мне:
 <div>
   <p>
-  Я начинающий разработчик Desktop приложений учусь в ГБПОУ НГК, хоть и на данном этапе я и не могу себя назвать программистом, но желаю обучаться и становиться лучше!   Мой любимыый язык программирования это С#, но в коллежде я немного изучал С и Java ( мобильный приложения ). 
+  Я начинающий разработчик Desktop приложений. Учусь в ГБПОУ НГК, хоть и на данном этапе я и не могу себя назвать программистом, но желаю обучаться и становиться лучше!   Мой любимыый язык программирования это С#, но в коллежде я немного изучал С и Java ( мобильные приложения ). 
   <p/>
   
   - :telescope: Самостоятельно изучаю веб-разработку.
@@ -49,4 +49,7 @@
 </div>
   
 ----
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FannDrozh&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FannDrozh&theme=dracula)
+  
+----
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FannDrozh&theme=dracula)
